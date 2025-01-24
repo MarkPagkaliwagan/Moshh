@@ -1,71 +1,119 @@
-# Mark Pagkaliwagan - Profile
+# 👋 **Hi, I'm Mark Pagkaliwagan**
 
-🎓 **3rd Year BS Information Technology Student** at San Pablo Colleges  
-💻 **Working Student | Aspiring Developer | Tech Enthusiast**  
-🎯 **Passionate about Web Development, Cybersecurity, and Building Efficient Applications**
+🎓 **3rd Year BS Information Technology** student at **San Pablo Colleges**  
+💻 **Working Student** | **Aspiring Developer** | **Tech Enthusiast**
+
+Passionate about **Web Development**, **Cybersecurity**, and **Building Efficient Applications**. Always striving to improve and learn new technologies!
 
 ---
 
-## 🛠️ Skills & Technologies  
+## 🛠️ **Technologies & Tools**  
 
-### 💡 Programming Languages
+A total of **51 languages and technologies** that I work with and have experience in:
+
+### 💻 **Programming Languages**
 - 🐍 **Python**
 - 🌐 **JavaScript**
-- 🖥️ **PHP**
+- 💻 **TypeScript**
+- 📊 **R**
+- ☕ **Java**
+- 💻 **PHP**
+- 🌍 **Dart**
+- 💡 **C#**
 
-### 🔧 Frameworks & Libraries
+### 🛠 **Frameworks & Libraries**
 - ⚛️ **React**
+- 🔥 **Next.js**
+- 🚀 **CodeIgniter**
 - 🛠️ **Laravel**
+- 🎨 **Bootstrap**
+- 🪶 **Tailwind CSS**
+- ✨ **DaisyUI**
+- 🖤 **ShadCNUI**
+- 🖥️ **NextUI**
+- 🌺 **Flutter**
+- 🌍 **JavaFX**
 
-### 🛠 Tools
-- 🕹️ **Git & GitHub**
-- ✨ **VS Code**
-- 🎨 **Figma**
+### 🔧 **Databases & Back-End Tools**
+- 🗃️ **PostgreSQL**
+- 🛠️ **MySQL**
+- 🌐 **Supabase**
+- 📦 **PocketBase**
+- 🔥 **Flask**
+- 🌐 **Flask-RESTX**
+- 📝 **OpenAPI**
+- 🦄 **Swagger**
+
+### 🎨 **Data Science & Visualization**
+- 💡 **Streamlit**
+- 📊 **ggplot**
+- 📚 **Pandas**
+- 🔢 **Numpy**
+- 🌈 **Seaborn**
+- 📉 **Plotly**
+- 🧠 **Scikit-learn**
+
+### ⚙️ **Version Control & Development Tools**
+- 🔒 **Git**
+- 🖥️ **GitHub**
+- 📖 **Jupyter**
+- 🐧 **Linux**
+- 🌍 **Ubuntu**
+- 🔄 **Zorin**
+- 📦 **Tmux**
+- ✨ **Neovim**
+- 📄 **VSCodium**
+
+### 🎬 **Creative Tools**
+- 🎨 **Photoshop**
+- 📚 **InDesign**
+- 🎬 **Premiere**
 
 ---
 
-## 🚀 Current Projects
+## 🚀 **Current Projects**
 
-### 🏢 [Employee Management System](https://github.com/MarkPagkaliwagan/EmployeeManagement.git)
-A comprehensive system for managing employee records efficiently.
+### 🏢 **[Employee Management System](https://github.com/MarkPagkaliwagan/EmployeeManagement.git)**  
+A comprehensive system designed to manage employee records effectively and efficiently.
 
-### 🔒 Web Application Activities and Record Management System
-A secure platform using **multi-factor authentication** for student government management.
-
----
-
-## 📚 **Activities**
-
-Here are some of the recent activities I've participated in:
-
-| Activity Name | Date       |
-| -------------- | ---------- |
-| Web Development Workshop | 2024-12-05 |
-| Python Programming Bootcamp | 2024-11-15 |
+### 🔒 **Web Application Activities and Record Management System**  
+A secure platform designed to manage student government records with **multi-factor authentication**.
 
 ---
 
-## 🎓 **Certificates**
+## 📅 **Recent Activities**
 
-Some of my certificates:
-
-| Certificate Name | Date       |
-| ---------------- | ---------- |
-| Certified Web Developer | 2024-10-30 |
-| Certified Python Programmer | 2024-11-10 |
-
----
-
-## 📊 GitHub Stats
-![Mark's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarkPagkaliwagan&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkPagkaliwagan&layout=compact&theme=radical)
+| **Activity**                     | **Date**       | **Details**                                                                                  |
+|-----------------------------------|----------------|----------------------------------------------------------------------------------------------|
+| **Web Development Workshop**      | 2024-12-05     | Hands-on workshop focusing on building modern web applications.                              |
+| **Python Programming Bootcamp**   | 2024-11-15     | Intensive bootcamp covering advanced Python concepts.                                        |
+| **Cybersecurity Webinar**         | 2024-10-20     | Participated in a webinar on cybersecurity trends and best practices.                        |
+| **App Development Hackathon**     | 2024-09-12     | Built a mobile app in 48 hours as part of a hackathon.                                       |
 
 ---
 
-## 🌟 Fun Facts About Me
-- 🎮 Aspiring content creator for [TechTalk ni Mark](https://www.youtube.com/@TechTalkniMark)
-- 📚 Preparing for the **TOPCIT Exam**
-- 🖥️ Working as a **Student Assistant** in the guidance office at San Pablo Colleges
+## 🏅 **Certifications**
+
+| **Certificate**                   | **Issued By**            | **Date**       |
+|-----------------------------------|--------------------------|----------------|
+| **Certified Web Developer**       | Web Dev Academy          | 2024-10-30     |
+| **Certified Python Programmer**   | Python Institute         | 2024-11-10     |
+| **Cybersecurity Essentials**      | Security Academy         | 2024-09-20     |
+
+---
+
+## 📊 **GitHub Stats**
+
+![Mark's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarkPagkaliwagan&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkPagkaliwagan&layout=compact&theme=dark)
+
+---
+
+## 🌟 **Fun Facts**
+
+- 🎮 **Aspiring Content Creator** for [**TechTalk ni Mark**](https://www.youtube.com/@TechTalkniMark)  
+- 📚 **Currently Reviewing for the TOPCIT Exam**  
+- 🖥️ **Student Assistant** at the Guidance Office, San Pablo Colleges
 
 ---
 
@@ -78,6 +126,7 @@ Some of my certificates:
 ---
 
 ## ✨ **Goals for 2025**
-- 🌟 Launch and contribute to **open-source projects**.
-- 🏆 Ace the **TOPCIT exam**.
-- 💡 Master advanced **cybersecurity** and **machine learning** concepts.
+
+- 🌟 **Contribute to open-source projects**  
+- 🏆 **Ace the TOPCIT Exam**  
+- 💡 **Master Cybersecurity** and **Machine Learning** concepts
