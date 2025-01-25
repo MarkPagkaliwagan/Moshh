@@ -1,132 +1,66 @@
-# 👋 **Hi, I'm Mark Pagkaliwagan**
-
-🎓 **3rd Year BS Information Technology** student at **San Pablo Colleges**  
-💻 **Working Student** | **Aspiring Developer** | **Tech Enthusiast**
-
-Passionate about **Web Development**, **Cybersecurity**, and **Building Efficient Applications**. Always striving to improve and learn new technologies!
+# 🏄‍♂️ Mark Pagkaliwagan
 
 ---
 
-## 🛠️ **Technologies & Tools**  
+### 👨‍🎓 About Me  
 
-A total of **51 languages and technologies** that I work with and have experience in:
+🎓 **Student:**  
+I’m a **3rd-year Bachelor of Science in Information Technology** student at **San Pablo Colleges**, driven to develop innovative solutions and grow in the field of IT.  
 
-### 💻 **Programming Languages**
-- 🐍 **Python**
-- 🌐 **JavaScript**
-- 💻 **TypeScript**
-- 📊 **R**
-- ☕ **Java**
-- 💻 **PHP**
-- 🌍 **Dart**
-- 💡 **C#**
+💻 **Student Assistant:**  
+While studying, I’ve been working as a **Student Assistant** for 2 years, where I’ve gained valuable experience in:  
+- 🔧 **Technical Troubleshooting:** Diagnosing and resolving PC and system-related issues.  
+- 🗣️ **Client Communication:** Providing support and assistance with technical concerns.  
+- 📂 **Document Organization:** Managing and organizing essential paperwork and files efficiently.  
 
-### 🛠 **Frameworks & Libraries**
-- ⚛️ **React**
-- 🔥 **Next.js**
-- 🚀 **CodeIgniter**
-- 🛠️ **Laravel**
-- 🎨 **Bootstrap**
-- 🪶 **Tailwind CSS**
-- ✨ **DaisyUI**
-- 🖤 **ShadCNUI**
-- 🖥️ **NextUI**
-- 🌺 **Flutter**
-- 🌍 **JavaFX**
-
-### 🔧 **Databases & Back-End Tools**
-- 🗃️ **PostgreSQL**
-- 🛠️ **MySQL**
-- 🌐 **Supabase**
-- 📦 **PocketBase**
-- 🔥 **Flask**
-- 🌐 **Flask-RESTX**
-- 📝 **OpenAPI**
-- 🦄 **Swagger**
-
-### 🎨 **Data Science & Visualization**
-- 💡 **Streamlit**
-- 📊 **ggplot**
-- 📚 **Pandas**
-- 🔢 **Numpy**
-- 🌈 **Seaborn**
-- 📉 **Plotly**
-- 🧠 **Scikit-learn**
-
-### ⚙️ **Version Control & Development Tools**
-- 🔒 **Git**
-- 🖥️ **GitHub**
-- 📖 **Jupyter**
-- 🐧 **Linux**
-- 🌍 **Ubuntu**
-- 🔄 **Zorin**
-- 📦 **Tmux**
-- ✨ **Neovim**
-- 📄 **VSCodium**
-
-### 🎬 **Creative Tools**
-- 🎨 **Photoshop**
-- 📚 **InDesign**
-- 🎬 **Premiere**
+🚀 **Skills & Passion:**  
+I’m passionate about solving real-world problems through technology, enhancing processes, and learning new tools to advance my skills.  
 
 ---
 
-## 🚀 **Current Projects**
 
-### 🏢 **[Employee Management System](https://github.com/MarkPagkaliwagan/EmployeeManagement.git)**  
-A comprehensive system designed to manage employee records effectively and efficiently.
-
-### 🔒 **Web Application Activities and Record Management System**  
-A secure platform designed to manage student government records with **multi-factor authentication**.
-
----
-
-## 📅 **Recent Activities**
-
-| **Activity**                     | **Date**       | **Details**                                                                                  |
-|-----------------------------------|----------------|----------------------------------------------------------------------------------------------|
-| **Web Development Workshop**      | 2024-12-05     | Hands-on workshop focusing on building modern web applications.                              |
-| **Python Programming Bootcamp**   | 2024-11-15     | Intensive bootcamp covering advanced Python concepts.                                        |
-| **Cybersecurity Webinar**         | 2024-10-20     | Participated in a webinar on cybersecurity trends and best practices.                        |
-| **App Development Hackathon**     | 2024-09-12     | Built a mobile app in 48 hours as part of a hackathon.                                       |
+<p align="left">
+   <a href="https://www.youtube.com/@TechTalkMark?sub_confirmation=1">
+      <img alt="YouTube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCQumSxNmHh-d0EM-LSUwmpw?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+   <a href="https://www.youtube.com/@TechTalkMark">
+      <img alt="YouTube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCQumSxNmHh-d0EM-LSUwmpw?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+   <a href="https://github.com/MarkPagkaliwagan?tab=followers">
+      <img alt="GitHub followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/MarkPagkaliwagan?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+   <a href="https://github.com/MarkPagkaliwagan?tab=repositories&sort=stargazers">
+      <img alt="GitHub stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/MarkPagkaliwagan?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+</p>
 
 ---
 
-## 🏅 **Certifications**
+### 🧰 Languages and Tools
 
-| **Certificate**                   | **Issued By**            | **Date**       |
-|-----------------------------------|--------------------------|----------------|
-| **Certified Web Developer**       | Web Dev Academy          | 2024-10-30     |
-| **Certified Python Programmer**   | Python Institute         | 2024-11-10     |
-| **Cybersecurity Essentials**      | Security Academy         | 2024-09-20     |
-
----
-
-## 📊 **GitHub Stats**
-
-![Mark's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarkPagkaliwagan&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkPagkaliwagan&layout=compact&theme=dark)
-
----
-
-## 🌟 **Fun Facts**
-
-- 🎮 **Aspiring Content Creator** for [**TechTalk ni Mark**](https://www.youtube.com/@TechTalkniMark)  
-- 📚 **Currently Reviewing for the TOPCIT Exam**  
-- 🖥️ **Student Assistant** at the Guidance Office, San Pablo Colleges
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="Node.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<br />
 
 ---
 
-## 🌐 **Let's Connect!**
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/MRKpgk/)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/moshh.v1/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-jeus-pagkaliwagan-b37482303/)
+
+### 📺 Latest YouTube Videos
+
+[![EIGRP Configuration Tutorial: Complete Guide for Beginners](https://img.youtube.com/vi/3PhrEz43wJc/0.jpg)](https://youtu.be/3PhrEz43wJc?si=ZN63G9662b7N3FJu)
+
+- [EIGRP Configuration Tutorial: Complete Guide for Beginners](https://youtu.be/3PhrEz43wJc?si=ZN63G9662b7N3FJu)
+
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@TechTalkMark?sub_confirmation=1)
+
 
 ---
 
-## ✨ **Goals for 2025**
+### 📊 GitHub Stats
 
-- 🌟 **Contribute to open-source projects**  
-- 🏆 **Ace the TOPCIT Exam**  
-- 💡 **Master Cybersecurity** and **Machine Learning** concepts
+![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkPagkaliwagan&show_icons=true&theme=gruvbox)
