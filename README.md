@@ -13,6 +13,8 @@ While studying, I’ve been working as a **Student Assistant** for 2 years, wher
 - 🗣️ **Client Communication:** Providing support and assistance with technical concerns.  
 - 📂 **Document Organization:** Managing and organizing essential paperwork and files efficiently.  
 
+---
+
 🚀 **Skills & Passion:**  
 I’m passionate about solving real-world problems through technology, enhancing processes, and learning new tools to advance my skills.  
 
