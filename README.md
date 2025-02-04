@@ -48,19 +48,6 @@ I’m passionate about solving real-world problems through technology, enhancing
 
 ---
 
-
-
-### 📺 Latest YouTube Videos
-
-[![EIGRP Configuration Tutorial: Complete Guide for Beginners](https://img.youtube.com/vi/3PhrEz43wJc/0.jpg)](https://youtu.be/3PhrEz43wJc?si=ZN63G9662b7N3FJu)
-
-- [EIGRP Configuration Tutorial: Complete Guide for Beginners](https://youtu.be/3PhrEz43wJc?si=ZN63G9662b7N3FJu)
-
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@TechTalkMark?sub_confirmation=1)
-
-
----
-
 ### 📊 GitHub Stats
 
 ![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkPagkaliwagan&show_icons=true&theme=gruvbox)
